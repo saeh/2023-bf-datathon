@@ -1,0 +1,8 @@
+python "0 join.py"
+python "1 bsl.py"
+python "1 bsl2.py"
+python "1 ts.py"
+python "2 fe.py"
+python "3 target.py"
+python "4 train.py"
+python "5 tournament.py"
